@@ -103,7 +103,8 @@ streamlit run streamlit_app.py
    - Level risiko
    - Rekomendasi tindakan
 
-**Link Prototype**: [Student Status Predictor - Streamlit App]([https://your-app-name.streamlit.ap](https://student-status-predictor.streamlit.app/)p)
+<!-- https://student-status-predictor.streamlit.app/ -->
+**Link Prototype**: [Student Status Predictor - Streamlit App](https://student-status-predictor.streamlit.app/)
 
 **Setup lokal**:
 ```bash
